@@ -70,8 +70,8 @@ Software Engineer | MERN Stack Developer | DevOps Enthusiast
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyankaphulmante&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyankamadde&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankamadde&theme=tokyonight" width="48%" />
 </p>
 
 <br/>
