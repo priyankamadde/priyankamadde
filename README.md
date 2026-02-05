@@ -10,8 +10,6 @@
 Software Engineer | MERN Stack Developer | DevOps Enthusiast
 </h3>
 
-<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="100%" />
-
 <!----------------------------------- Profile Views ------------------------------------>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=priyankaphulmante&label=Profile%20Views&color=0e75b6&style=flat" />
