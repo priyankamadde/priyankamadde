@@ -25,6 +25,7 @@ Software Engineer | MERN Stack Developer | DevOps Enthusiast
 - 🌍 Based in **India**
 - 🚀 Strong experience in **MERN Stack (React, Node, MongoDB)**
 - ⚙️ Actively upskilling in **DevOps (Docker, AWS, Linux, CI/CD)**
+- 🎓 Currently pursuing M.S. in DevOps Specialization from Woolf University, Malta (European Union)
 - 💬 Ask me about **React, JavaScript, MERN, Docker**
 - 📫 Reach me at: **priyankaphulmante2026@gmail.com**
 - 🔗 LinkedIn: [Priyanka Phulmante](https://www.linkedin.com/in/priyanka-phulmante-186828337)
