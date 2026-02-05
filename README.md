@@ -67,11 +67,12 @@ Software Engineer | MERN Stack Developer | DevOps Enthusiast
 <br/>
 
 <!----------------------------------- GitHub Stats ------------------------------------>
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyankamadde&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankamadde&theme=tokyonight" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=priyankamadde&theme=tokyonight" width="48%" />
 </p>
 
 <br/>
